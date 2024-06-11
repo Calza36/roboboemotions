@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 setup(
     name='robobo_emotion',
     version='0.1',
-    repository_url="https://github.com/Calza36/roboboemotions.git",
+    repository_url="https://github.com/Calza36/roboboemotions",
     packages=find_packages(),
     install_requires=[
         'robobopy',
