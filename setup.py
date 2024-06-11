@@ -11,6 +11,5 @@ setup(
         'robobopy_videostream',
         'deepface',
         'emotion2vec',
-    ]
-    
+    ]  
 )
