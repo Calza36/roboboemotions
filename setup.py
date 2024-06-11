@@ -10,6 +10,6 @@ setup(
         'robobopy',
         'robobopy_videostream',
         'deepface',
-        'emotion2vec',
+        #'emotion2vec',
     ]  
 )

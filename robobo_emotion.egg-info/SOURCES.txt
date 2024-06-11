@@ -1,0 +1,9 @@
+README.md
+setup.py
+robobo_emotion/__init__.py
+robobo_emotion/emotion_image.py
+robobo_emotion.egg-info/PKG-INFO
+robobo_emotion.egg-info/SOURCES.txt
+robobo_emotion.egg-info/dependency_links.txt
+robobo_emotion.egg-info/requires.txt
+robobo_emotion.egg-info/top_level.txt

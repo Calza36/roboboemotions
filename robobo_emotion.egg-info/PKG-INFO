@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: robobo-emotion
+Version: 0.1
+Requires-Dist: robobopy
+Requires-Dist: robobopy_videostream
+Requires-Dist: deepface
