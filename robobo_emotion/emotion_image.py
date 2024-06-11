@@ -13,8 +13,5 @@ class EmotionImage:
     def get_image_path(self):
         return self.image_path
 
-    def get_emotion(self):
-        return self.emotion
-
 
 
