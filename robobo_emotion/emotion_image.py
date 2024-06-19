@@ -6,7 +6,9 @@ class EmotionImage:
         self.emotion = self.get_emotion()
 
     def get_emotion(self):
-        result = DeepFace.analyze(self.image_path)
+        #result = DeepFace.analyze(self.image_path)
+        #emotion = result[0]['dominant_emotion']
+        result = DeepFace.analyze(self.image_path, actions=['emotion'])
         emotion = result[0]['dominant_emotion']
         return emotion
 
