@@ -7,3 +7,5 @@ robobo_emotion.egg-info/SOURCES.txt
 robobo_emotion.egg-info/dependency_links.txt
 robobo_emotion.egg-info/requires.txt
 robobo_emotion.egg-info/top_level.txt
+robobo_multimodal_emotion/__init__.py
+robobo_multimodal_emotion/robobo_multimodal_emotion.py
