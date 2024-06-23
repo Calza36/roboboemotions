@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='robobo_emotion',
-    version='0.5',
+    version='0.6',
     url="https://github.com/Calza36/roboboemotions",
     author="Ernesto Calzadilla",
     description="Librería para detectar emociones en imágenes y audio usando Robobo",

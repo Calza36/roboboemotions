@@ -85,7 +85,7 @@ def main():
         analizador = MultimodalEmotion(img_path, audio_path)
         print("Fusión de emociones:", analizador.fusion_emotion)
         print("Emoción predominante:", analizador.predominant_emotion)
-        print("Combinacion de emosiones:", analizador.emociones_agrupadas)
+        print("Combinacion de emociones:", analizador.emociones_agrupadas)
 
     print("Program has finished executing.")
 
