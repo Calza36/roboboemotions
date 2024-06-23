@@ -43,7 +43,7 @@ roboboemotions es una librería de Python diseñada para predecir emociones a pa
 ### Instalar desde PYPI (Recommended)
 1. instala desde pypi para obtener todas las librerias requeridas:
 ```bash
-pip install -U funasr modelscope
+pip install robobo-emotion
 ```
 ### Instalar desde github 
 1. Clona este repositorio:
