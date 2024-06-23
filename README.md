@@ -12,8 +12,7 @@
 
 </div>
 
-# Multimodal Emotion Recognition Library. 
-## Combining Facial Emotion Recognition and Speech Emotion Recognition.
+# Multimodal Emotion Recognition Library: Combining Facial Emotion Recognition and Speech Emotion Recognition.
 
 ## Guía
 roboboemotions es una librería de Python diseñada para predecir emociones a partir de imágenes y audios, utilizando una aproximación multimodal mediante fusión por ponderación. Esta herramienta está optimizada para su uso con el robot educativo Robobo, facilitando la detección emocional en aplicaciones educativas.
