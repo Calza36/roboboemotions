@@ -1,4 +1,4 @@
-from robobo_multimodal_emotion import MultimodalEmotion
+from robobo_emotion import MultimodalEmotion
 
 image_path = "examples\Anger.jpg"
 audio_path = "examples\YAF_match_angry.wav"

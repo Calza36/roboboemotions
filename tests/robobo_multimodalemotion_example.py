@@ -4,7 +4,7 @@ import cv2
 import pyaudio
 import wave
 import keyboard
-from robobo_multimodal_emotion import MultimodalEmotion
+from robobo_emotion import MultimodalEmotion
 from robobopy.Robobo import Robobo
 from robobopy_videostream.RoboboVideo import RoboboVideo
 from robobopy_audiostream.RoboboAudio import RoboboAudio

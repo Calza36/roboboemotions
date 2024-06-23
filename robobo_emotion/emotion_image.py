@@ -9,7 +9,7 @@ class EmotionImage:
         #result = DeepFace.analyze(self.image_path)
         #emotion = result[0]['dominant_emotion']
         result = DeepFace.analyze(self.image_path, actions=['emotion'])
-        emotion = result[0]['dominant_emotion']
+        emotion = result[0]['emotion']
         return emotion
 
     def get_image_path(self):
