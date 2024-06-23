@@ -1,7 +1,7 @@
 from robobo_emotion import MultimodalEmotion
 
-image_path = "examples\Anger.jpg"
-audio_path = "examples\YAF_match_angry.wav"
+image_path = "src\Anger.jpg"
+audio_path = "src\YAF_match_angry.wav"
 
 # Crear una instancia de MultimodalEmotion
 analizador = MultimodalEmotion(image_path, audio_path)
